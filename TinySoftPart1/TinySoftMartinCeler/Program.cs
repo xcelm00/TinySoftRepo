@@ -52,7 +52,7 @@ namespace TinySoftMartinCeler
             }
             #endregion
 
-            Console.WriteLine("And the number is " + winNumber + "!!!");
+            Console.WriteLine("And the number is " + winNumber + "!!");
             Console.ReadKey();
         }
     }
